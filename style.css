@@ -236,7 +236,7 @@ nav {
 }
 
 .hero-bottom {
-    background: url("img/Capa\ 63.png") no-repeat bottom right;
+    background: url("img/Capa\ 63.webp") no-repeat bottom right;
 }
 
 .skills {
@@ -402,7 +402,7 @@ nav {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url("img/9271850ee546756ae922632d448c282d.png") center / cover
+    background: url("img/9271850ee546756ae922632d448c282d.webp") center / cover
         no-repeat;
     transition: transform 0.3s ease; /* Smooth scaling effect */
     z-index: -1; /* Place the pseudo-element behind the content */
@@ -426,7 +426,7 @@ nav {
 }
 
 .pink-card::before {
-    background: url("img/57488488675ac152a9b1248d7989841b.png") center / cover
+    background: url("img/57488488675ac152a9b1248d7989841b.webp") center / cover
         no-repeat;
 }
 .pink-card::after {
@@ -438,7 +438,7 @@ nav {
     );
 }
 .cyan-card::before {
-    background: url("img/de79ed4fe25aed829e4297ab0a9cc4c9.png") center / cover
+    background: url("img/de79ed4fe25aed829e4297ab0a9cc4c9.webp") center / cover
         no-repeat;
 }
 .cyan-card::after {
@@ -450,7 +450,7 @@ nav {
     );
 }
 .black-card::before {
-    background: url("img/f76de777734a1a9d0be3c6e79f491e0f.png") center / cover
+    background: url("img/f76de777734a1a9d0be3c6e79f491e0f.webp") center / cover
         no-repeat;
 }
 .black-card::after {
