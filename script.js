@@ -1,12 +1,3 @@
-const swiper = new Swiper(".swiper", {
-    // Optional parameters
-    direction: "horizontal",
-    loop: true,
-    autoplay: {
-        delay: 3000,
-    },
-});
-
 document.querySelector("h1").onmouseenter = () => {
     document.querySelector("#h1-img").classList.add("active");
 };
@@ -67,4 +58,13 @@ skills.forEach((skill, index) => {
 
         skillsParagraph.innerHTML = "";
     });
+});
+
+const swiper = new Swiper(".swiper", {
+    // Optional parameters
+    direction: "horizontal",
+    loop: true,
+    autoplay: {
+        delay: 3000,
+    },
 });
